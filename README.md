@@ -4,6 +4,10 @@ This simple project finds the repeated letters and word of the main document. It
 
 ![repeatedwords](/asset/img/repeatedwords.png)
 
+<p align="center">
+  <img width="460" height="300" src="/asset/img/repeatedwords.png">
+</p>
+
 ## Part I: Number of times that the letters are repeated
 
 ### 1. Get the document:
