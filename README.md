@@ -2,10 +2,8 @@
 
 This simple project finds the repeated letters and word of the main document. It's object is the handling of the DOM (Document Object Model).
 
-![repeatedwords](/asset/img/repeatedwords.png)
-
 <p align="center">
-  <img width="460" height="300" src="/asset/img/repeatedwords.png">
+  <img width="30%" height="300" src="/asset/img/repeatedwords.png">
 </p>
 
 ## Part I: Number of times that the letters are repeated
