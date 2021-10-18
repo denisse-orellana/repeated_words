@@ -193,4 +193,25 @@ wordCount();
         p.appendChild(span);
             })
         }
+
+
+    ## Other resolution:
+
+        function getDocumentLetters() {
+            var textEntrada = document.querySelector('#texto-entrada').textContent;
+            return textEntrada.replace(/[^-a-z0-9]/ig, '').toUpperCase().split("");
+        }
+
+        function countLetters(text) {
+            var result = {}
+            text.forEach(letter => {
+                if (!result[letter]) {
+                    result[letter] = 1;
+                }
+                else {
+                    result[letter] += 1;
+                }
+            })
+            return result;
+        }
 */
