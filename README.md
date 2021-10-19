@@ -2,7 +2,12 @@
 
 This simple project finds the repeated letters and word of the main document. It's object is the handling of the DOM (Document Object Model).
 
-<p align="center"><img width="100%" src="/asset/img/repeatedwords.png"></p>
+<p align="center"><img width="70%" src="/asset/img/repeatedwords.png"></p>
+
+- [Repeated Words](#repeated-words)
+  * [Part I: Number of times that the letters are repeated](#part-i--number-of-times-that-the-letters-are-repeated)
+  * [Part II: Number of times that the words are repeated](#part-ii--number-of-times-that-the-words-are-repeated)
+  * [Website link](#website-link)
 
 ## Part I: Number of times that the letters are repeated
 
