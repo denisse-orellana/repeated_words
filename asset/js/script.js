@@ -5,7 +5,7 @@
 // Expected output: "A: 60, B: 77, (...)"
 
 // Call DOMContentLoaded -> carga el documento
-document.addEventListener('DOMContentLoaded', function(event){
+//document.addEventListener('DOMContentLoaded', function(event){
     // brings all the text content to the console:
     //      console.log(document.getElementById('texto-entrada').textContent);
 
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function(event){
 
     // call the function countRepeatedWords: 
     //      console.log(countRepeatedWords(cleanText(document.getElementById('texto-entrada').textContent)));
-})
+//})
 
 // 1 get the text of the document
 function getDocumentText() {

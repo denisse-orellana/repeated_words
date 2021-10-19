@@ -2,9 +2,7 @@
 
 This simple project finds the repeated letters and word of the main document. It's object is the handling of the DOM (Document Object Model).
 
-<p align="center">
-  <img width="40%" src="/asset/img/repeatedwords.png">
-</p>
+<p align="center"><img width="100%" src="/asset/img/repeatedwords.png"></p>
 
 ## Part I: Number of times that the letters are repeated
 
@@ -110,3 +108,7 @@ function wordCount() {
 
 wordCount();
 ```
+
+## Website link
+
+The final state of the project can be seen here: []()
